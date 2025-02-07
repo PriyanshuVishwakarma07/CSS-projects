@@ -10,3 +10,12 @@
 
 4.Image Gallery
 ![Image view](https://github.com/user-attachments/assets/76322ed2-2098-46fa-a1b0-f70fc41c5821)
+
+5. Modern Chair
+![Modern Chair](https://github.com/user-attachments/assets/8cd2ec7a-5eb1-4eda-958e-ffc43b7d5717)
+
+6.Mug Card
+![Mug_Card](https://github.com/user-attachments/assets/f367d203-f31c-431c-87e1-da7d7484130c)
+
+7. Parallax
+![parallax](https://github.com/user-attachments/assets/7fffb4dc-b3a9-4b8c-94df-b90b17405644)
